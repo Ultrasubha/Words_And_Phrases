@@ -39,7 +39,7 @@
 - BIOS		----------------------->		Basic Input Output System
 - BIPS	----------------------->			Billion Instruction Per Second
 - BIU		----------------------->		Bus Interface Unit
-- BMP		----------------------->		Bitmap
+
 - BRD		----------------------->		Blu-Ray Disc
 - CC		----------------------->		Carbon Copy
 - CD		----------------------->		Compact Disk
@@ -75,7 +75,6 @@
 - DOC	Data Optimizing Computer
 - Doc	Document
 - DOS	Disk Operating System
-- DRAM	Dynamic Random Access Memory
 - DVD	Digital Video/Versatile Disc
 - DVDR	Digital Versatile Disk Recordable
 - DVDRW	Digital Versatile Disk Rewritable
@@ -138,11 +137,9 @@
 - PCI	Peripheral Component Interconnect
 - PHP	Hypertext Preprocessor
 - PIXEL	Picture Element
-- PNG	Portable Network Graphics
 - PPP	Point to Point Protocol
 - PRN	Printer
 - PROM	Programmable Read Only Memory
-- RAM	Random Access Memory
 - RARP	Reverse Address Resolution Protocol
 - RDBMS	Relational Data Base Management System
 - RIP	Routing Information Protocol
@@ -151,16 +148,13 @@
 - SAM	Software Asset Management
 - SAN	Storage Area Network
 - SCSI	Small Computer System Interface 
-- SDRAM	Synchronous Dynamic Random Access Memory
 - SFTP	Secure File Transfer Protocol
 - SGML	Standard Generalized Markup Language
-- SGRAM	Synchronous Graphics RAM
 - SIP	Session Initiation Protocol
 - SIU	Serial Interface Unit
 - SMTP	Simple Mail Transfer Protocol
 - SNAP	Sub Network Access Protocol
 - SNMP	Simple Network Management Protocol
-- SRAM	Static Random Access Memory
 - SYSOP	System Operator
 - TCP	Transmission Control Protocol
 - UI	User Interface
@@ -168,27 +162,34 @@
 - VCD	Video Compact Disk
 - VDU	Visual Display Unit
 - VIRUS	Vital Information Resource Under Siege
-- VRAM	Video Random Access Memory
 - VxD	Virtual Extended Driver 
 - WAN	Wide Area Network
 - WAP	Wireless Application Protocol
-- WBMP	Wireless Bitmap Image
 - WLAN	Wireless Local Area Network
 - WML	Wireless Markup Language
 - WWW	World Wide Web
 - XGA	Extended Graphics Array 
 - XHTML	Extensible Hyper Text Markup Language
-- XMF	Extensible Music File
-- XML	Extensible Markup Language
 - XMS	Extended Memory Specification
 - FORTRAN	Formula Translation
 - COBOL = Common Business Oriented Language
 - URL = Uniform Resource Locator
 - WiFi = Wireless Fidelity
 
-### Format
+### Memory
+- RAM	Random Access Memory
+- SRAM	Static Random Access Memory
+- DRAM	Dynamic Random Access Memory
+- VRAM	Video Random Access Memory
+- SDRAM	Synchronous Dynamic Random Access Memory
+- SGRAM	Synchronous Graphics RAM
+
+### File Format
 - PNG = Portable Network Graphics
 - XML = Extensible Markup Language
+- XMF	= Extensible Music File
+- BMP = Bitmap
+- WBMP = Wireless Bitmap Image
 
 (Not really an acronym)
 - COMPUTER	=  Common Operations Made Possible Under Technical Engineering Researches
