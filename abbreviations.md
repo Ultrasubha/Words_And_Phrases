@@ -35,7 +35,6 @@
 - BDSL	----------------------->			Broadband DSL
 - BEDO	----------------------->			Burst Extended Data Out (RAM)
 - BGP	----------------------->			Border Gateway Protocol
-- BHTML	----------------------->			Broadcast Hyper Text Markup Language
 - BIOS		----------------------->		Basic Input Output System
 - BIPS	----------------------->			Billion Instruction Per Second
 - BIU		----------------------->		Bus Interface Unit
@@ -69,7 +68,7 @@
 - dB	 = Decibel
 - DBMS = Data Base Management System
 - DDL = Data Definition Language
-- DHTML  = Dynamics Hyper Text Markup Language
+
 - DML  = Data Manipulation Language
 - DNS	Domain Name System
 - DOC	Data Optimizing Computer
@@ -96,7 +95,6 @@
 - GDI	Graphical Device Interface
 - GUI	Graphical User Interface
 - HD	Hard Disk
-- HTML	Hyper Text Markup Language
 - HTTP	Hyper Text Transfer Protocol
 - I/O	Input/Output (serial and parallel ports)
 - IC	Integrated Circuit
@@ -149,7 +147,6 @@
 - SAN	Storage Area Network
 - SCSI	Small Computer System Interface 
 - SFTP	Secure File Transfer Protocol
-- SGML	Standard Generalized Markup Language
 - SIP	Session Initiation Protocol
 - SIU	Serial Interface Unit
 - SMTP	Simple Mail Transfer Protocol
@@ -166,30 +163,36 @@
 - WAN	Wide Area Network
 - WAP	Wireless Application Protocol
 - WLAN	Wireless Local Area Network
-- WML	Wireless Markup Language
 - WWW	World Wide Web
 - XGA	Extended Graphics Array 
-- XHTML	Extensible Hyper Text Markup Language
 - XMS	Extended Memory Specification
 - FORTRAN	Formula Translation
-- COBOL = Common Business Oriented Language
+
+### Wireless
 - URL = Uniform Resource Locator
 - WiFi = Wireless Fidelity
 
 ### Memory
-- RAM	Random Access Memory
-- SRAM	Static Random Access Memory
-- DRAM	Dynamic Random Access Memory
-- VRAM	Video Random Access Memory
-- SDRAM	Synchronous Dynamic Random Access Memory
-- SGRAM	Synchronous Graphics RAM
+- RAM =	Random Access Memory
+- SRAM = Static Random Access Memory
+- DRAM = Dynamic Random Access Memory
+- VRAM = Video Random Access Memory
+- SDRAM = Synchronous Dynamic Random Access Memory
+- SGRAM = Synchronous Graphics RAM
 
-### File Format
+### File Format and Language
 - PNG = Portable Network Graphics
 - XML = Extensible Markup Language
+- XHTML	Extensible Hyper Text Markup Language
 - XMF	= Extensible Music File
 - BMP = Bitmap
 - WBMP = Wireless Bitmap Image
+- COBOL = Common Business Oriented Language
+- WML	Wireless Markup Language
+- HTML = Hyper Text Markup Language
+- DHTML = Dynamics Hyper Text Markup Language
+- BHTML = Broadcast Hyper Text Markup Language
+- SGML	Standard Generalized Markup Language
 
 (Not really an acronym)
 - COMPUTER	=  Common Operations Made Possible Under Technical Engineering Researches
