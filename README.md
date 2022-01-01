@@ -3,9 +3,9 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 
 # Abbreviations
 
-| OLAP | Online Analytical Processing |
-| OLTP | Online Transaction Processing |
-| BI | Business Intelligence |
+ OLAP | Online Analytical Processing 
+ OLTP | Online Transaction Processing 
+ BI | Business Intelligence 
 |  SAAS | Software-as-a-Service |
 | AAC		|	Advanced Audio Coding |
 | ABR		|	Average Bit Rate |
