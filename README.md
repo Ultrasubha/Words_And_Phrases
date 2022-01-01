@@ -4,7 +4,7 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 # Abbreviations
 
 |    Abbreviation    |                 Word                 |
-|   :------------:   |            :------------:            |
+|   :------------    |            :------------             |
 | OLAP               | Online Analytical Processing         |
 | OLTP               | Online Transaction Processing        |
 | BI                 | Business Intelligence                |
