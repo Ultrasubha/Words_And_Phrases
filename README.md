@@ -77,6 +77,7 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | DOC                | Data Optimizing Computer |
 | Doc                | Document |
 | DOS                | Disk Operating System |
+| DSLR               | Digital Single-Lens Reflex Camera |
 | DVD                | Digital Video/Versatile Disc |
 | DVDR               | Digital Versatile Disk Recordable |
 | DVDRW	             | Digital Versatile Disk Rewritable |
