@@ -51,6 +51,7 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | CDRW		         |	Compact Disk Rewritable             |
 | CD-WO		         |	Compact Disk – Write Once           |
 | CD-XA		         |	Compact Disk – Extended Architecture|
+| CDMA               |  Code Division Multiple Access      |
 | CGI-BIN	         |	Common Gateway Interface – Binary (programming for Web forms) |
 | CIS		         |	CompuServe Information Service      |
 | CISC		         |	Complex Instructions Set Computers  |
@@ -77,6 +78,7 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | DOC                | Data Optimizing Computer |
 | Doc                | Document |
 | DOS                | Disk Operating System |
+| DSLR               | Digital Single-Lens Reflex Camera |
 | DVD                | Digital Video/Versatile Disc |
 | DVDR               | Digital Versatile Disk Recordable |
 | DVDRW	             | Digital Versatile Disk Rewritable |
@@ -178,6 +180,7 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | VRAM |   Video Random Access Memory |
 | SDRAM |  Synchronous Dynamic Random Access Memory |
 | SGRAM |  Synchronous Graphics RAM |
+| TDMA  |  Time Division Multiple Access |
 | PNG |   Portable Network Graphics |
 | XML |   Extensible Markup Language |
 | XHTML | 	Extensible Hyper Text Markup Language |
