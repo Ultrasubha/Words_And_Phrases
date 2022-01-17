@@ -194,8 +194,8 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | BHTML |  Broadcast Hyper Text Markup Language |
 | SGML | 	Standard Generalized Markup Language |
 
-# sds
-(Not really an acronym)
+### (Not really an acronym)
+
 |    Abbreviation    |                 Word                 |
 |   :------------    |            :------------             |
 | COMPUTER |  Common Operations Made Possible Under Technical Engineering Researches |
