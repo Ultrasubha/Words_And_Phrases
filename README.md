@@ -179,6 +179,9 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | SDRAM |  Synchronous Dynamic Random Access Memory |
 | SGRAM |  Synchronous Graphics RAM |
 | TDMA  |  Time Division Multiple Access |
+
+## File Format and Language
+
 | PNG |   Portable Network Graphics |
 | XML |   Extensible Markup Language |
 | XHTML | 	Extensible Hyper Text Markup Language |
