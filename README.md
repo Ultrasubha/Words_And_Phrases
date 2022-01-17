@@ -182,6 +182,8 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 
 ## File Format and Language
 
+|    Abbreviation    |                 Word                 |
+|   :------------    |            :------------             |
 | PNG |   Portable Network Graphics |
 | XML |   Extensible Markup Language |
 | XHTML | 	Extensible Hyper Text Markup Language |
