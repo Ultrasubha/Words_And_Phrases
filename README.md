@@ -170,20 +170,13 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | XGA | 	Extended Graphics Array  |
 | XMS | 	Extended Memory Specification |
 | FORTRAN | 	Formula Translation |
-| URL |   Uniform Resource Locator |
-| WiFi |  Wireless Fidelity |
 
-## Memory
+## Networking
 
 |    Abbreviation    |                 Word                 |
 |   :------------    |            :------------             |
-| RAM | 	Random Access Memory |
-| SRAM |   Static Random Access Memory |
-| DRAM |   Dynamic Random Access Memory |
-| VRAM |   Video Random Access Memory |
-| SDRAM |  Synchronous Dynamic Random Access Memory |
-| SGRAM |  Synchronous Graphics RAM |
-| TDMA  |  Time Division Multiple Access |
+| URL |   Uniform Resource Locator |
+| WiFi |  Wireless Fidelity |
 
 ## File Format and Language
 
@@ -201,6 +194,18 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | DHTML |  Dynamics Hyper Text Markup Language |
 | BHTML |  Broadcast Hyper Text Markup Language |
 | SGML | 	Standard Generalized Markup Language |
+
+## Memory
+
+|    Abbreviation    |                 Word                 |
+|   :------------    |            :------------             |
+| RAM | 	Random Access Memory |
+| SRAM |   Static Random Access Memory |
+| DRAM |   Dynamic Random Access Memory |
+| VRAM |   Video Random Access Memory |
+| SDRAM |  Synchronous Dynamic Random Access Memory |
+| SGRAM |  Synchronous Graphics RAM |
+| TDMA  |  Time Division Multiple Access |
 
 ## Not really an acronym
 
