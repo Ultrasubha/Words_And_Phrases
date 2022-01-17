@@ -172,6 +172,11 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | FORTRAN | 	Formula Translation |
 | URL |   Uniform Resource Locator |
 | WiFi |  Wireless Fidelity |
+
+## Memory
+
+|    Abbreviation    |                 Word                 |
+|   :------------    |            :------------             |
 | RAM | 	Random Access Memory |
 | SRAM |   Static Random Access Memory |
 | DRAM |   Dynamic Random Access Memory |
