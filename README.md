@@ -149,27 +149,17 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | SAM | 	Software Asset Management |
 | SAN | 	Storage Area Network |
 | SCSI | 	Small Computer System Interface  |
-| SFTP | 	Secure File Transfer Protocol |
-| SIP | 	Session Initiation Protocol |
 | SIU | 	Serial Interface Unit |
-| SMTP |	Simple Mail Transfer Protocol |
-| SNAP |	Sub Network Access Protocol |
-| SNMP |	Simple Network Management Protocol |
 | SYSOP | 	System Operator |
-| TCP | 	Transmission Control Protocol |
 | UI | 	    User Interface |
 | USB | 	Universal Serial Bus |
 | VCD | 	Video Compact Disk |
 | VDU | 	Visual Display Unit |
 | VIRUS | 	Vital Information Resource Under Siege |
 | VxD | 	Virtual Extended Driver  |
-| WAN | 	Wide Area Network |
-| WAP | 	Wireless Application Protocol |
-| WLAN | 	Wireless Local Area Network |
-| WWW | 	World Wide Web |
 | XGA | 	Extended Graphics Array  |
 | XMS | 	Extended Memory Specification |
-| FORTRAN | 	Formula Translation |
+
 
 ## Networking
 
@@ -177,6 +167,16 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 |   :------------    |            :------------             |
 | URL |   Uniform Resource Locator |
 | WiFi |  Wireless Fidelity |
+| WAN | 	Wide Area Network |
+| WAP | 	Wireless Application Protocol |
+| WLAN | 	Wireless Local Area Network |
+| WWW | 	World Wide Web |
+| TCP | 	Transmission Control Protocol |
+| SMTP |	Simple Mail Transfer Protocol |
+| SNAP |	Sub Network Access Protocol |
+| SNMP |	Simple Network Management Protocol |
+| SFTP | 	Secure File Transfer Protocol |
+| SIP | 	Session Initiation Protocol |
 
 ## File Format and Language
 
@@ -194,6 +194,7 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | DHTML |  Dynamics Hyper Text Markup Language |
 | BHTML |  Broadcast Hyper Text Markup Language |
 | SGML | 	Standard Generalized Markup Language |
+| FORTRAN | 	Formula Translation |
 
 ## Memory
 
