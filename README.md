@@ -1,8 +1,6 @@
 # Words_And_Phrases
 Just a repo for useful words and phrases that might come handy in some scenarios. Feel free to add yours
 
-# Abbreviations
-
 |    Abbreviation    |                 Word                 |
 |   :------------    |            :------------             |
 | OLAP               | Online Analytical Processing         |
@@ -194,8 +192,9 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | BHTML |  Broadcast Hyper Text Markup Language |
 | SGML | 	Standard Generalized Markup Language |
 
-### Not really an acronym
+## Not really an acronym
 
+|    Abbreviation    |                 Word                 |
 |   :------------    |            :------------             |
 | COMPUTER |  Common Operations Made Possible Under Technical Engineering Researches |
 | COMPUTER | 	Commonly Operated Machine Particularly Useful for Tremendous Effort Reduction |
