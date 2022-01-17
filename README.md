@@ -193,6 +193,8 @@ Just a repo for useful words and phrases that might come handy in some scenarios
 | DHTML |  Dynamics Hyper Text Markup Language |
 | BHTML |  Broadcast Hyper Text Markup Language |
 | SGML | 	Standard Generalized Markup Language |
+
+# sds
 (Not really an acronym)
 |    Abbreviation    |                 Word                 |
 |   :------------    |            :------------             |
